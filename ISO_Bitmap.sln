@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISO_Bitmap", "ISO_Bitmap\ISO_Bitmap.csproj", "{B25DD5D4-5D99-4F99-A201-5F376EA15A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25DD5D4-5D99-4F99-A201-5F376EA15A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25DD5D4-5D99-4F99-A201-5F376EA15A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25DD5D4-5D99-4F99-A201-5F376EA15A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25DD5D4-5D99-4F99-A201-5F376EA15A27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311EA665-E225-46C3-8796-2C87A4462BF6}
+	EndGlobalSection
+EndGlobal
